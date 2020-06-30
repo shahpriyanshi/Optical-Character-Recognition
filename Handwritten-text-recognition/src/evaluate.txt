@@ -1,0 +1,3 @@
+Total test images:    1425
+Character Error Rate: 0.07043529
+Word Error Rate:      0.21891887
